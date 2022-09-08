@@ -1,4 +1,4 @@
-## Connect four game :books:
+## Connect4 game :books:
 The 2019 coursework for:
 
 [MATH20621 Programming with Python](https://personalpages.manchester.ac.uk/staff/stefan.guettel/py/)
