@@ -6,5 +6,5 @@ The 2019 coursework for:
 Programming a Connect4 Game Board using Python
 
 ```
-python connect4_Yecheng_Chu.py
+$ python connect4_Yecheng_Chu.py
 ```
